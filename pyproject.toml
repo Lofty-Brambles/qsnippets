@@ -1,0 +1,14 @@
+[project]
+name = "qsnippets"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "bluequbit>=0.18.0b1",
+    "matplotlib>=3.10.7",
+    "pylatexenc>=2.10",
+    "python-dotenv>=1.2.1",
+    "qiskit-ibm-runtime>=0.43.1",
+    "qiskit[visualization]>=2.2.3",
+]
