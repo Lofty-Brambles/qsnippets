@@ -7,6 +7,7 @@ A collection of Jupyter notebooks containing snippets showing some basic quantum
 ## Create Virtual Environment and Install Dependencies
 
 ```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh # On Windows: powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 uv venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 uv pip install -r requirements.txt
@@ -17,7 +18,7 @@ uv pip install -r requirements.txt
 Copy the `.example.env` file to `.env` and fill in your API keys:
 
 ```bash
-cp .example.env .env
+cp .example.env .env # On Windows: cp ".example.env" ".env"
 ```
 
 Then edit `.env` with your credentials. Here, we use only blue qubit, so filling in the IBM key is optional:
