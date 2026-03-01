@@ -7,9 +7,12 @@ requires-python = ">=3.14"
 dependencies = [
     "bluequbit>=0.18.0b1",
     "matplotlib>=3.10.7",
+    "numpy>=2.3.4",
+    "pandas>=2.3.3",
     "pylatexenc>=2.10",
     "python-dotenv>=1.2.1",
     "qiskit-algorithms>=0.4.0",
     "qiskit-ibm-runtime>=0.43.1",
     "qiskit[visualization]>=2.2.3",
+    "torch>=2.10.0",
 ]

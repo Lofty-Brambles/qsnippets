@@ -1,0 +1,4 @@
+- What is the status of QNN
+- What is the current situation of appl of QNN in fluid dynamics
+- check the application in specific cases, e.g., lid driven cavity - pressure poiseuille's eqn, QNN to reduce the computational cost in 3D
+- check for other use cases besides this lid driven cavity problem

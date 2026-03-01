@@ -1,3 +1,0 @@
--   [ ] Write a detailed explanation of IQFT
--   [ ] Make an index into the flow of process, ppts and snippets till now
--   [ ] Create a scaffold process for these notebooks
