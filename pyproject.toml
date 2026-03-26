@@ -9,6 +9,7 @@ dependencies = [
     "matplotlib>=3.10.7",
     "numpy>=2.3.4",
     "pandas>=2.3.3",
+    "pennylane>=0.44.1",
     "pylatexenc>=2.10",
     "python-dotenv>=1.2.1",
     "qiskit-algorithms>=0.4.0",
