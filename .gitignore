@@ -207,4 +207,4 @@ marimo/_lsp/
 __marimo__/
 
 # Add model save folders
-*/saved_models/
+**/saved_models/*
