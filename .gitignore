@@ -208,3 +208,4 @@ __marimo__/
 
 # Add model save folders
 **/saved_models/*
+**/saved_models_pinn/*
