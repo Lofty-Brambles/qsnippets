@@ -11,6 +11,7 @@ dependencies = [
     "numpy>=2.3.4",
     "pandas>=2.3.3",
     "pennylane>=0.44.1",
+    "pennylane-lightning-amdgpu>=0.45.0",
     "pennylane-qiskit>=0.45.0",
     "pylatexenc>=2.10",
     "python-dotenv>=1.2.1",
