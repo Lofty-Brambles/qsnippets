@@ -209,3 +209,11 @@ __marimo__/
 # Add model save folders
 **/saved_models/*
 **/saved_models_pinn/*
+
+# more models
+07_cd_nozzle/variants/DUAL_NET_RESULTS
+07_cd_nozzle/variants/SHOCK_SINGLE_065
+07_cd_nozzle/variants/SHOCK_SINGLE_070
+07_cd_nozzle/variants/SHOCK_SINGLE_075
+07_cd_nozzle/variants/SHOCK_SINGLE_080
+07_cd_nozzle/variants/SHOCK_SINGLE_085
